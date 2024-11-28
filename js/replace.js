@@ -132,6 +132,19 @@ const replace = [
     "name": "Éric Ciotti|Eric Ciotti",
     "replaceWith": "Éric Proutti"
   },
+  {
+    "name": "CAC 40",
+    "replaceWith": "CACA 40"
+  },
+    {
+    "name": "Brest",
+    "replaceWith": "Breast"
+  },
+  {
+    "name": "Vincent Susplugas",
+    "replaceWith": "Le S"
+  }
+
 ];
 /* For copy/paste
   {
