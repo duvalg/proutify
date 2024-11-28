@@ -143,6 +143,14 @@ const replace = [
   {
     "name": "Vincent Susplugas",
     "replaceWith": "Le S"
+  },
+  {
+    "name": "FIAC",
+    "replaceWith": "gros FIAC"
+  },
+  {
+    "name": "GPT",
+    "replaceWith": "j'ai pété"
   }
 
 ];
